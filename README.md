@@ -12,12 +12,13 @@ Nahrajte a premenujte skript delete-update.php.
 Upravené riadky (3 riadky) od 25
 
 -------------------------
+<pre>
 // My code, 3 rows
-
 $undir = "../content/".$del[0].'/'.$del[1];
 //unlink($opFile);
  rmdir($undir);	
 // end My code
+</pre>
 ---------------------
 Help:
 
